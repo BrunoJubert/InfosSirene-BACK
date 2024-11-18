@@ -1,0 +1,29 @@
+# Fichiers d'environnement
+.env
+
+# Dépendances
+node_modules/
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de build
+/build
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Autres fichiers et dossiers spécifiques à votre projet
+# Ajoutez ici d'autres fichiers ou dossiers que vous voulez ignorer
+
+config/config.json
+
